@@ -1,0 +1,51 @@
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\bin\Debug\Gestion_Kiosco.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\bin\Debug\Gestion_Kiosco.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\bin\Debug\Gestion_Kiosco.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\bin\Debug\Gestion_Kiosco.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.vbprojResolveAssemblyReference.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmVuelto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmInformeCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmInformeClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmInformeCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmInformeStock.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmInformeVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Comercio\obj\x86\Debug\Gestion_Kiosco.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Kiosco\bin\Debug\Gestion_Kiosco.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Kiosco\obj\x86\Debug\Gestion_Kiosco.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Kiosco\obj\x86\Debug\Gestion_Kiosco.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion\Gestion_Kiosco\Gestion_Kiosco\obj\x86\Debug\Gestion_Kiosco.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Kiosco\Gestion_Kiosco\bin\Debug\Gestion_Kiosco.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Kiosco\Gestion_Kiosco\obj\x86\Debug\Gestion_Kiosco.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Kiosco\Gestion_Kiosco\obj\x86\Debug\Gestion_Kiosco.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Kiosco\Gestion_Kiosco\obj\x86\Debug\Gestion_Kiosco.pdb

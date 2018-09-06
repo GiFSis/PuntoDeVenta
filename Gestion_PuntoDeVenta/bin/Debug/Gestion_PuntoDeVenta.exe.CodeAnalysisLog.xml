@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 10.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="10.0">
+ <Targets>
+  <Target Name="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe">
+   <Modules>
+    <Module Name="gestion_puntodeventa.exe">
+     <Namespaces>
+      <Namespace Name="Gestion_PuntoDeVenta">
+       <Types>
+        <Type Name="FrmArqueo" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#grabarSobranteFaltante(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Caja" File="FrmArqueo.vb" Line="83">En el método 'FrmArqueo.grabarSobranteFaltante(String, String, String)', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmArticulos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#BtnImagem_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmArticulos.vb" Line="242">En el método 'FrmArticulos.BtnImagem_Click(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'New OpenFileDialog()' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#TxtDescripcion_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmArticulos.vb" Line="284">En el método 'FrmArticulos.TxtDescripcion_TextChanged(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'tabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#TxtIdArticulo_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmArticulos.vb" Line="262">En el método 'FrmArticulos.TxtIdArticulo_TextChanged(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'tabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmCaja" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#BtnRegistrar_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Caja" File="frmCaja.vb" Line="68">En el método 'frmCaja.BtnRegistrar_Click(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmClientes" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#TxtApellido_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmClientes.vb" Line="264">En el método 'frmClientes.TxtApellido_TextChanged(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'tabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#TxtIdCliente_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmClientes.vb" Line="483">En el método 'frmClientes.TxtIdCliente_TextChanged(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'tabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmCompras" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#IngresoCompraCaja()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Compra - Venta" File="FrmCompras.vb" Line="190">En el método 'frmCompras.IngresoCompraCaja()', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#obtengonumeroCompra()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Compra - Venta" File="FrmCompras.vb" Line="163">En el método 'frmCompras.obtengonumeroCompra()', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmHacerBackup" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#BtnRealizaBCK_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\BackUp" File="FrmHacerBackup.vb" Line="78">En el método 'FrmHacerBackup.BtnRealizaBCK_Click(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'BackupProcess' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmMisDatos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Inicio()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmMisDatos.vb" Line="16">En el método 'FrmMisDatos.Inicio()', llame a System.IDisposable.Dispose en el objeto 'dtMitabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmPresupuestos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#obtengonumeropresupuesto()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Compra - Venta" File="FrmPresupuestos.vb" Line="61">En el método 'FrmPresupuestos.obtengonumeropresupuesto()', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmProveedores" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#TxtRazonSocial_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\ABM" File="FrmProveedores.vb" Line="237">En el método 'frmProveedores.TxtRazonSocial_TextChanged(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'tabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmRestaurarBackUp" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#BtnRealizaBCK_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\BackUp" File="FrmRestaurarBackUp.vb" Line="76">En el método 'FrmRestaurarBackUp.BtnRealizaBCK_Click(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'BackupProcess' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\BackUp" File="FrmRestaurarBackUp.vb" Line="38">En el método 'FrmRestaurarBackUp.BtnRealizaBCK_Click(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'New OpenFileDialog()' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmVentas" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#ObtengoNumeroVenta()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Compra - Venta" File="FrmVentas.vb" Line="240">En el método 'FrmVentas.ObtengoNumeroVenta()', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#TxtPresupuesto_TextChanged(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Formularios\Compra - Venta" File="FrmVentas.vb" Line="426">En el método 'FrmVentas.TxtPresupuesto_TextChanged(Object, EventArgs)', llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="G_pdVDataSetCajaXdia" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_pdVDataSetCajaXdia'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_pdVDataSetCajaXdia+get_inf_CajaxDiaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_pdVDataSetCajaXdia.get_inf_CajaxDiaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetClientes" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetClientes'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetClientes+clienteDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetClientes.clienteDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_pdVDataSetFactura" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_pdVDataSetFactura'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_pdVDataSetFactura+get_FacturaDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_pdVDataSetFactura.get_FacturaDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetMisDatos" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetMisDatos'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetMisDatos+misdatosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetMisDatos.misdatosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetMisDatosFactura" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetMisDatosFactura'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetMisDatosFactura+misdatosDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetMisDatosFactura.misdatosDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetPresupuesto" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetPresupuesto'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetPresupuesto+mipresuDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetPresupuesto.mipresuDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetProveedores" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetProveedores'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetProveedores+proveedoresDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetProveedores.proveedoresDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetStock" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetStock'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetStock+vistaarticulosystockyprecioDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetStock.vistaarticulosystockyprecioDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetVentaXdias" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetVentaXdias'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="G_PdVDataSetVentaXdias+get_inf_Venta_4DataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Agregue una implementación de GetObjectData al tipo 'G_PdVDataSetVentaXdias.get_inf_Venta_4DataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="GestionMySQL" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implemente IDisposable en 'GestionMySQL' porque crea miembros de los tipos IDisposable siguientes: 'MySqlConnection', 'MySqlCommand'. Si ya se había distribuido 'GestionMySQL', agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#Agrego_Presupuesto(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="96">En el método 'GestionMySQL.Agrego_Presupuesto(String)', no se elimina (Dispose) el objeto 'miDt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'miDt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="101">En el método 'GestionMySQL.Agrego_Presupuesto(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="101">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.Agrego_Presupuesto(String)' podría contener las siguientes variables: 'numero'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarArtStockDescripcion(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="59">En el método 'GestionMySQL.BuscarArtStockDescripcion(String)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="64">En el método 'GestionMySQL.BuscarArtStockDescripcion(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="64">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.BuscarArtStockDescripcion(String)' podría contener las siguientes variables: 'campo'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarArtStockID(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="84">En el método 'GestionMySQL.BuscarArtStockID(String)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="89">En el método 'GestionMySQL.BuscarArtStockID(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="89">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.BuscarArtStockID(String)' podría contener las siguientes variables: 'idArticulo'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarenTablaEscribo(System.String,System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="50">En el método 'GestionMySQL.BuscarenTablaEscribo(String, String, String)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="52">En el método 'GestionMySQL.BuscarenTablaEscribo(String, String, String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="52">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.BuscarenTablaEscribo(String, String, String)' podría contener las siguientes variables: 'tabla', 'columna', 'campo'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarPresupuesto(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="71">En el método 'GestionMySQL.BuscarPresupuesto(String)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="77">En el método 'GestionMySQL.BuscarPresupuesto(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="77">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.BuscarPresupuesto(String)' podría contener las siguientes variables: 'campo'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#CalcularSaldo(System.DateTime)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="172">En el método 'GestionMySQL.CalcularSaldo(Date)', llame a System.IDisposable.Dispose en el objeto 'dtTabla' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#CalcularSaldoInicial(System.DateTime)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="141">En el método 'GestionMySQL.CalcularSaldoInicial(Date)', llame a System.IDisposable.Dispose en el objeto 'dtSaldo' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Consulta(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="30">En el método 'GestionMySQL.Consulta(String)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="33">En el método 'GestionMySQL.Consulta(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="33">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.Consulta(String)' podría contener las siguientes variables: 'sql'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#consultarMovimientosCaja(System.DateTime)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="125">En el método 'GestionMySQL.consultarMovimientosCaja(Date)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="127">En el método 'GestionMySQL.consultarMovimientosCaja(Date)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="127">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.consultarMovimientosCaja(Date)' podría contener las siguientes variables: 'Conversions.ToString(FECHA)'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ConsultarTabla(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="40">En el método 'GestionMySQL.ConsultarTabla(String)', no se elimina (Dispose) el objeto 'dt' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'dt' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="43">En el método 'GestionMySQL.ConsultarTabla(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="43">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.ConsultarTabla(String)' podría contener las siguientes variables: 'tabla'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#EjecutarSQL(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="18">La cadena de consulta pasada a 'MySqlCommand.CommandText.Set(String)' en 'GestionMySQL.EjecutarSQL(String)' podría contener las siguientes variables: 'SentenciaSQL'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Presupuesto(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="110">En el método 'GestionMySQL.Presupuesto(String)', no se elimina (Dispose) el objeto 'miDataSet' en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto 'miDataSet' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="115">En el método 'GestionMySQL.Presupuesto(String)', llame a System.IDisposable.Dispose en el objeto 'adaptador' antes de que todas las referencias a él estén fuera de ámbito.</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Clases" File="GestionMySQL.vb" Line="115">La cadena de consulta pasada a 'MySqlDataAdapter.New(String, MySqlConnection)' en 'GestionMySQL.Presupuesto(String)' podría contener las siguientes variables: 'numero'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="MDIMenu" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetAsyncKeyState(System.Int32)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2018-06-30 17:30:53Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'MDIMenu.GetAsyncKeyState(Integer)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="Eliminar (Dispose) objetos antes de perder el ámbito" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>Eliminar (Dispose) objetos antes de perder el ámbito</Name>
+   <Description>Si un objeto que se puede eliminar (método Dispose) no se elimina de forma explícita antes de que todas las referencias a él estén fuera de ámbito, el objeto se eliminará en algún momento indeterminado cuando el recolector de elementos no utilizados ejecute el finalizador del objeto. Puesto que podría producirse un evento excepcional que impida que se ejecute el finalizador del objeto, el objeto debe eliminarse de forma explícita.</Description>
+   <Resolution Name="ExceptionEdge">En el método {0}, no se elimina (Dispose) el objeto {1} en todas las rutas de acceso de excepciones. Llame a System.IDisposable.Dispose en el objeto {1} antes de que todas las referencias a él estén fuera de ámbito.</Resolution>
+   <Resolution Name="NonExceptionEdge">En el método {0}, llame a System.IDisposable.Dispose en el objeto {1} antes de que todas las referencias a él estén fuera de ámbito.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>Implementar ISerializable correctamente</Name>
+   <Description>Si se puede asignar un tipo a ISerializable, debe implementar GetObjectData. Para tipos unsealed, el método GetObjectData debe ser invocable y reemplazable por tipos derivados.</Description>
+   <Resolution Name="Default">Agregue una implementación de GetObjectData al tipo {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
+   <Name>Mueva P/Invokes a la clase NativeMethods</Name>
+   <Description>Este tipo contiene miembros con el atributo DllImport. Los miembros con el atributo DllImport deben estar contenidos en clases denominadas NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Description>
+   <Resolution Name="Default">Puesto que es un método P/Invoke, se debe definir {0} en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182161(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
+   <File Name="designrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad</Name>
+   <Description>Una cadena de comando SQL compilada a partir de datos proporcionados por el usuario es vulnerable a ataques pon inyección de código SQL. Microsoft SQL Server y otros servidores de bases de datos admiten procedimientos almacenados y consultas SQL parametrizadas, que reducen el riesgo de ataques por inyección.</Description>
+   <Resolution Name="WithNonLiterals">La cadena de consulta pasada a {0} en {1} podría contener las siguientes variables: {2}. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Los tipos que poseen campos descartables deben ser descartables</Name>
+   <Description>Los tipos que declaran miembros descartables también deben implementar IDisposable. Si el tipo no posee ningún recurso no administrado, no implementar un finalizador.</Description>
+   <Resolution Name="DependsOnFix">Implemente IDisposable en {0} porque crea miembros de los tipos IDisposable siguientes: {1}. Si ya se había distribuido {0}, agregar nuevos miembros que implementen IDisposable en este tipo se considera un cambio rotundo para los consumidores existentes.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="10.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

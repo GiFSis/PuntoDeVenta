@@ -1,0 +1,197 @@
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_Kiosco\Gestion_Kiosco\bin\Debug\Gestion_PuntoDeVenta.exe.config
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.config
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.pdb
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.xml
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\MySql.Data.dll
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbprojAssemblyReference.cache
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaPresupuesto.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaVenta.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArqueo.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCaja.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVuelto.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FacturaImpresion.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.PresupuestoImpresion.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArticulos.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmClientes.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmMisDatos.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmProveedores.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmAbout.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBackUp.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmHacerBackup.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmRestaurarBackUp.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaArticulo.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaCliente.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCompras.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmPresupuestos.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVentas.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmUsuarios.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.LoginFormUsuarios.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.MDIMenu.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmDesdeHasta.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCaja.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeClientes.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCompras.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeProveedores.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeStock.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeVentas.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmLogin.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.Resources.resources
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.GenerateResource.cache
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.CoreCompileInputs.cache
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.CopyComplete
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.xml
+F:\PROYECTOS  GiFSys\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.CodeAnalysisLog.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.lastcodeanalysissucceeded
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVuelto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeStock.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.pdb
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.config
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.manifest
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.application
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.pdb
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.xml
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\MySql.Data.dll
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbprojAssemblyReference.cache
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaPresupuesto.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaVenta.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArqueo.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCaja.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVuelto.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FacturaImpresion.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.PresupuestoImpresion.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArticulos.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmClientes.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmMisDatos.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmProveedores.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmAbout.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBackUp.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmHacerBackup.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmRestaurarBackUp.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaArticulo.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaCliente.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCompras.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmPresupuestos.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVentas.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmUsuarios.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.LoginFormUsuarios.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.MDIMenu.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmDesdeHasta.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCaja.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeClientes.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCompras.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeProveedores.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeStock.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeVentas.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmLogin.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.Resources.resources
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.GenerateResource.cache
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.CoreCompileInputs.cache
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe.manifest
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.application
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.CopyComplete
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.xml
+F:\PROYECTOS  GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.config
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\bin\Debug\Gestion_PuntoDeVenta.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaPresupuesto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArqueo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmAnulaVenta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVuelto.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FacturaImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.PresupuestoImpresion.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmArticulos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmMisDatos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmAbout.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmHacerBackup.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmRestaurarBackUp.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaArticulo.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmBusquedaCliente.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmPresupuestos.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.frmUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.LoginFormUsuarios.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.MDIMenu.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmDesdeHasta.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCaja.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeClientes.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeCompras.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeProveedores.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeStock.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmInformeVentas.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmLogin.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.Resources.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbproj.GenerateResource.Cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\RdlCompile.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\RdlCompile.compiled
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe.manifest
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.application
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.exe
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.xml
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.pdb
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.vbprojResolveAssemblyReference.cache
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmActualizaPrecio.resources
+E:\Data\Documentos\Visual Studio 2010\Projects\Gestion GiFSys\Gestion_PuntoDeVenta\Gestion_PuntoDeVenta\obj\x86\Debug\Gestion_PuntoDeVenta.FrmMarca.resources
